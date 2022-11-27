@@ -1,10 +1,10 @@
 # Python_cheat_sheet  
   
   
-capitalize() Converti le premier caractère de la chaîne en majuscule
-casefold() Converti la phrase en minuscule
-center() Retourne une chaîne de caractères centrée
-count() Retourne le nombre de fois que la chaîne spécifiée est trouvée
+capitalize() Converti le premier caractère de la chaîne en majuscule  
+casefold() Converti la phrase en minuscule  
+center() Retourne une chaîne de caractères centrée  
+count() Retourne le nombre de fois que la chaîne spécifiée est trouvée  
 encode() Retourne une version encodée de la chaîne
 endswith() Retourne True si la chaîne se termine par la valeur spécifiée
 expandtabs() Change la taille des tabulations de la chaîne
